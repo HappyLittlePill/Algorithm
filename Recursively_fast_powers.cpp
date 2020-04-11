@@ -6,7 +6,7 @@
 int qpow(int a, int n);
 int main()
 {
-    int out = qpow(2,5);//调用递归快速幂
+    int out = qpow(2,5);//调用递归快速幂 a:底数 n:指数
     printf("out=%d\n",out);
     return 0;
 }
