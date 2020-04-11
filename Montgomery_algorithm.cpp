@@ -1,5 +1,5 @@
 // 蒙哥马利算法（非递归快速幂取模）
-// 转自：https : //www.cnblogs.com/zuilehongdou/p/5462484.html
+// 转自：https://www.cnblogs.com/zuilehongdou/p/5462484.html
 // 蒙哥马利算法是一种快速的大数（通常达到几百个二进制）的模乘算法，由彼得·蒙哥马利在1985年提出。
 // 也可参考专栏查看非递归快速幂：https://zhuanlan.zhihu.com/p/95902286
 #include <stdio.h>
@@ -21,7 +21,7 @@ int get_mod(int a, int b, int c)
 }
 int main()
 {
-    int out = get_mod(1024, 4, 221); //调用蒙哥马利算法，a:底数 b:指数 c:模
+    int out = get_mod(45, 55, 221); //调用蒙哥马利算法，a:底数 b:指数 c:模
     printf("out=%d\n", out);
     return 0;
 }
