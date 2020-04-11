@@ -1,4 +1,4 @@
-// 递归快速幂（对大素数取模）
+// 递归快速幂取模（对大素数取模）
 // 转载于https://zhuanlan.zhihu.com/p/95902286
 // 原则是步步取模，如果MOD较大，还应当开long long
 #include <stdio.h>
