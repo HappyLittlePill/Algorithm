@@ -12,4 +12,5 @@
 6. [暴力取模算法](Brute_force_modulus.cpp)
 7. [蒙哥马利算法（非递归快速幂取模）](Montgomery_algorithm.cpp)
 8. [创建一个长度为6的int型数组，要求取值为1-6，同时元素值各不相同](ArrayAssignment.java)
+9. [回形数格式方阵的实现(Java)](回形数格式方阵的实现(Java)/回形数格式方阵的实现(Java).md)
 
